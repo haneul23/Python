@@ -60,3 +60,5 @@ Python 기본 강좌입니다. MVA(http://mva.microsoft.com) 사이트에 있는
 [5.레이아웃 및 양식](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=2JaKaxEJB_7304300477)
 
 [6.응용 프로그램 배포](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=J0Ei51EJB_9804300477)
+
+[7.기폰 프로그램 복사](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=J0Ei51EJB_9804300477)
